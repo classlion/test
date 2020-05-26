@@ -1,0 +1,50 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+.card {
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    position: relative;
+}
+
+.card-flag {
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    bottom: 260px;
+    left: 170px;
+}
+
+.new {
+    background-color: green;
+}
+
+.sale {
+    background-color: red;
+}
+
+.hit {
+    background-color: orange;
+}
+
+.card-body {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.card-price {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.card-link {
+    font-weight: bold;
+}

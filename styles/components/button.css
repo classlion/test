@@ -1,0 +1,25 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+.button {
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #FFCF31;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 21px;
+    padding-right: 21px;
+    margin: 0, auto;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: black;
+    color: #FFCF31;
+}

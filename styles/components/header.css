@@ -1,0 +1,45 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFCF31;
+}
+
+.logo {
+    display: inline-block;
+    letter-spacing: .4em;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    padding-right: 150px;
+}
+
+.nav {
+    display: inline-block;
+}
+
+.nav-item {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 10px;
+    padding-bottom: 7px;
+}
+
+.nav-item:hover {
+    border-bottom: 2px solid black;
+}
+
+.is-active {
+    text-decoration: underline;
+}
+
+.logo {
+    display: inline-block;
+}

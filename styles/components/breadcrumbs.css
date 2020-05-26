@@ -1,0 +1,14 @@
+.breadcrumbs {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eeeeee;
+}
+
+.breadcrumbs-list {
+    display: flex;
+}
+
+.breadcrumbs-item {
+    list-style: none;
+    margin-left: 5px;
+}
